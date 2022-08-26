@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: rgba(212, 224, 239, 0.716);
+}
+h2{
+    
+    text-transform: capitalize;
+    font-size: xx-large;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sectionA h1{
+    font-size: larger;
+    font-weight: 700;
+}
+
+.sectionA1{
+    background-color: white;
+    margin-top: 50px;
+}
+
+
+ .section_top .sectionC {
+   width: max-content;
+   height: max-content;
+   margin-left: 500px;
+}
+.sectionB{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.sectionB h3{
+    letter-spacing: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;    
+}
+.sectionB button{
+    width: 130px;
+    height: 35px;
+    margin-top: 25px;
+    background-color: orangered;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    border-radius: 5%;
+    
+
+}
+
+.sectionB p{
+    font-size: larger;
+}
+
+ .sectionB h1{
+text-transform: uppercase;
+    color: orangered;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-weight: 900;
+     font-size: 50px;
+}
+.sectionC h3{
+    text-transform: capitalize;
+    font-size: x-large;
+    letter-spacing: 3px;
+}
+.sectionC p{
+    font-size: x-large;
+}
+.sectionC{
+    border: 5px solid orangered;
+    width: 290px;
+    height: 330px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: orangered;
+    
+    
+
+}
+.sectionC h1{
+
+    text-transform: uppercase;
+    margin-left: 70px;
+}
+.sectionC button{
+    border: 3px solid crimson;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.sectionC img{
+    margin-left: 70px;
+}
+.me{
+    margin-top: -312px;
+    margin-left: 700px;
+    padding: 10px;
+    border: 5px solid salmon;
+    background-color: salmon;
+    width: 320px;
+    height: 312px;
+    color: white;
+}
+.me p{
+    font-size: larger;
+}
+.me h1{
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+.me button{
+    margin-left: 30px;
+}
+.me img{
+    margin-left: 70px;
+}
+.social{
+    border: 5px solid sandybrown;
+    padding: 10px;
+    width: 320px;
+    height: 312px;
+    margin-left: 1020px;
+    margin-top: -312px;
+    background-color: sandybrown;
+    color: white;
+}
+.social h1{
+    margin-left: 30px;
+    text-transform: uppercase;
+       
+}
+.social p{
+    font-size: larger;
+}
+.social button{
+    color: blue;
+    background-color: aquamarine;
+    margin-left: 70px;
+}
+.foot{
+    background-color: burlywood;
+    width: 100%;
+    height: 300px;
+}
+.foot h1{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.foot p{
+    margin-left: 200px;
+    padding: 50px;
+}
